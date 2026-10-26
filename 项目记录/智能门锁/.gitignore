@@ -1,0 +1,15 @@
+# Keil 编译中间产物
+Objects/
+Listings/
+*.o
+*.crf
+*.d
+*.axf
+*.hex
+*.bak
+
+# Keil 个人临时配置
+*.uvguix
+*.uvoptx
+JLinkLog.txt
+DebugConfig/
